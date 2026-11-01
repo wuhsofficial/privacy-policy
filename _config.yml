@@ -1,9 +1,0 @@
-title: Avion
-description: All-in-one student platform for learning, entertainment, communication, and intelligent support.
-
-# GitHub Pages theme (change this line to switch themes)
-theme: jekyll-theme-eclipsefdn
-
-markdown: kramdown
-kramdown:
-  input: GFM
